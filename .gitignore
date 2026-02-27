@@ -1,0 +1,5 @@
+.env
+analysis.db
+__pycache__/
+outputs/
+venv/
